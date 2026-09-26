@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outreach
+title: Outreach
 permalink: /outreach/
 nav: true
 nav_order: 4

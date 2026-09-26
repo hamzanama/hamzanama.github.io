@@ -1,8 +1,9 @@
 ---
 layout: page
-title: advice
+title: Advice
 permalink: /advice/
-nav: false
+nav: true
+nav_order: 8
 ---
 
 Over my years as a student and researcher, I have read and benefited from advice shared by senior scientists. Below are some resources that I have found particularly valuable and would like to share with students, especially those early in their careers.

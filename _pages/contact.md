@@ -1,8 +1,9 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
-nav: false
+nav: true
+nav_order: 9
 ---
 
 ## Get in Touch

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: media
+title: Media
 permalink: /media/
-nav: false
+nav: true
+nav_order: 7
 ---
 
 ## Media Appearances and Coverage

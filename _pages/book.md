@@ -1,8 +1,9 @@
 ---
 layout: page
-title: book
+title: Book
 permalink: /book/
-nav: false
+nav: true
+nav_order: 6
 ---
 
 ## Quantum Mechanics in the Single Photon Laboratory (Second Edition)

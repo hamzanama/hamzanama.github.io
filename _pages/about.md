@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Faculty Lead for Engineering and Computer Science, Syracuse University London
 
