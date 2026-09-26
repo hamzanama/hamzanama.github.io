@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Faculty Lead for Engineering and Computer Science, Syracuse University London
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.png
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Muhammad Hamza Waseem is a physicist working on quantum foundations and quantum computing, with an emphasis on compositional, process-based perspectives. He is the Faculty Lead for Engineering and Computer Science at Syracuse University London. He also teaches mathematics and physics part-time at the University of Oxford, and consults on quantum science education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+He completed his DPhil in Condensed Matter Physics at Oxford as a Rhodes Scholar, and worked as a Research Scientist at Quantinuum. During his undergraduate studies in electrical engineering at UET Lahore, he helped establish Pakistan's first single-photon quantum physics laboratory and co-authored *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing), now in its second edition.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Engagement and Outreach
+
+Alongside his research, Hamza has spent a decade in science outreach and widening participation. He co-created **Quantum in Pictures**, a programme teaching quantum physics to school students through diagrams, now active in more than twelve countries and adopted into Greece's national curriculum, with its results published in peer-reviewed studies. He helped organise the Lahore Science Mela, Pakistan's largest annual science festival, from its first edition, and co-founded Spectra Magazine, a student-run science-writing platform.
+
+His engagement work has been recognised with:
+- Oxford MPLS Public Engagement with Research Impact Award (2024)
+- Oxford Vice-Chancellor's Research Engagement Award (High Commendation, 2026)
+- South East Physics Network (SEPnet) Public Engagement Award (High Commendation, 2021)
+- The Diana Award (2021)
+
+## Contact
+
+He can be contacted at **hamzawaseem813@gmail.com**.
