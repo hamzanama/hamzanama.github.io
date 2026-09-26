@@ -6,7 +6,7 @@ subtitle: Faculty Lead for Engineering and Computer Science, Syracuse University
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false
 
 selected_papers: false
