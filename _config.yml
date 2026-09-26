@@ -3,11 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Muhammad
-middle_name: Hamza
+first_name: Hamza
+middle_name: 
 last_name: Waseem
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
 description: >
   Quantum physics, categorical quantum mechanics, science education
 footer_text: >
