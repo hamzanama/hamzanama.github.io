@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: CV
+permalink: /cv/
 nav: true
-nav_order: 1
+nav_order: 9
 ---
 
 ## DPhil Condensed Matter Physics
