@@ -25,7 +25,7 @@ He completed his DPhil in Condensed Matter Physics at Oxford as a Rhodes Scholar
 
 ## Engagement and Outreach
 
-Alongside his research, Hamza has spent a decade in science outreach and widening participation. He co-created **Quantum in Pictures**, a programme teaching quantum physics to school students through diagrams, now active in more than twelve countries and adopted into Greece's national curriculum, with its results published in peer-reviewed studies. He helped organise the Lahore Science Mela, Pakistan's largest annual science festival, from its first edition, and co-founded Spectra Magazine, a student-run science-writing platform.
+Alongside his research, Hamza has spent a decade in science outreach and widening participation. He co-created Quantum in Pictures, a programme teaching quantum physics to school students through diagrams, now active in more than twelve countries and adopted into Greece's national curriculum, with its results published in peer-reviewed studies. He helped organise the Lahore Science Mela, Pakistan's largest annual science festival, from its first edition, and co-founded Spectra Magazine, a student-run science-writing platform.
 
 His engagement work has been recognised with:
 - Oxford MPLS Public Engagement with Research Impact Award (2024)
