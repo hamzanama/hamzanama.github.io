@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Research and Engagement Awards
 
-- **Research Engagement Award**, Vice Chancellor's Awards, University of Oxford (2026)
+- **Research Engagement Award (High Commendation)**, Vice Chancellor's Awards, University of Oxford (2026)
 - **Nominated for the IOP Daphne Jackson Medal and Prize** by the Department of Physics, University of Oxford (2025)
 - **MPLS Public Engagement with Research Impact Award**, University of Oxford (2024)
 - **Return to Research Grant**, Rank Prize (2021)
