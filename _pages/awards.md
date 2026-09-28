@@ -20,6 +20,7 @@ nav_order: 5
 
 - **Venutolo Fund for Experiential Learning**, Syracuse University (2026)
 - **SSF Grant**, Magdalen College (2023)
+- **WDF Grant**, Rhodes Trust (2023)
 - **Research Grant**, Stanford House (Oxford), Stanford University (2023)
 - **Research Travel Grant**, Magdalen College (2023)
 - **SSF Grant**, Magdalen College (2022)
