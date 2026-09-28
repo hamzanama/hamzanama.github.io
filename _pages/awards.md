@@ -9,6 +9,7 @@ nav_order: 5
 ## Research and Engagement Awards
 
 - **Research Engagement Award**, Vice Chancellor's Awards, University of Oxford (2026)
+- **Nominated for the IOP Daphne Jackson Medal and Prize** by the Department of Physics, University of Oxford (2025)
 - **MPLS Public Engagement with Research Impact Award**, University of Oxford (2024)
 - **Return to Research Grant**, Rank Prize (2021)
 - **Recipient of The Diana Award** (2021)
@@ -17,11 +18,13 @@ nav_order: 5
 
 ## Research Grants and Funding
 
+- **Venutolo Fund for Experiential Learning**, Syracuse University (2026)
 - **SSF Grant**, Magdalen College (2023)
 - **Research Grant**, Stanford House (Oxford), Stanford University (2023)
-- **WDF Grant**, Rhodes Trust (2021)
 - **Research Travel Grant**, Magdalen College (2023)
 - **SSF Grant**, Magdalen College (2022)
+- **WDF Grant**, Rhodes Trust (2021)
+- **IET Outreach Grants and Equipment Kits** for hospital and school programmes (2017–2019)
 
 ## Academic Honours
 
@@ -40,3 +43,10 @@ nav_order: 5
 - **3rd Position in Secondary School Certificate Exam**, LDBE Lahore (2013)
 - **1st Position in Computer Science Exhibition**, LDBE Lahore (2012)
 - **4th Position in International Kangaroo Mathematics Contest** (2011)
+
+## Invited Talks, Exhibitions and Features
+
+- **Public Lecture for the International Year of Quantum**, Department of Physics, University of Oxford (2025)
+- **Panellist for the International Year of Quantum**, Royal Institution (2025)
+- **Featured in *Physics World* Careers 2026 guide**, Institute of Physics (2026)
+- **Featured in *I Am Because We Are* (2023)**, Nicola Green's exhibition at Rhodes House commissioned for the 120th anniversary of the Rhodes Scholarships, as one of ten Scholars and Fellows; *Entangled Threads: Quantum Teleportation* and *Tapestry: Ajrak*
