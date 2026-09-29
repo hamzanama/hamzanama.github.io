@@ -15,6 +15,7 @@ My research spans quantum foundations, quantum computing, and compositional appr
 ### Theses
 
 - **Waseem, M. H.** (2026). [String diagrams for quantum foundations, computing and natural language processing](https://ora.ox.ac.uk/objects/uuid:0037737b-e9ab-44b3-be48-65d3491e3f1b). DPhil Thesis, University of Oxford.
+- **Waseem, M. H., Ilahi, F. E., Tariq, Z., & Iqbal, M.** (2019). Design and implementation of single-photon quantum computing laboratory. BSc (Honours) Thesis, University of Engineering and Technology, Lahore.
 
 ### Books
 
