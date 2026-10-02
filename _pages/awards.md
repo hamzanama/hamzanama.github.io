@@ -32,7 +32,7 @@ nav_order: 5
 - **Best Senior Year Project in Electronics and Control Systems**, UET Lahore (2019)
 - **S. H. Durrani Gold Medal for Best Performance in Communication Engineering Subjects**, UET Lahore (2019)
 - **Shahid-ul-Haq Qureshi Gold Medal for Best Performance in Electronics and Communication Subjects**, UET Lahore (2019)
-- **Wolfram Summer School** (accepted to the 2018 cohort) 
+- **Offered a place at the Wolfram Summer School**, USA (2018)
 - **TechJuice 25 Under 25** (2017)
 - **Merit Scholarships**, UET Lahore (2016–19)
 - **1st Position in All Pakistan Science Poster Competition**, UET Lahore (2016)
@@ -44,11 +44,9 @@ nav_order: 5
 - **History of Physics Lecture**, Institute of Physics, UK (2025)
 - **Panellist for the International Year of Quantum**, Royal Institution (2025)
 - **Two Lectures for International School on Quantum Science and Technology**, Ghana (2024)
-- **Two Lectures for School on Quantum Machine Learning**, Deutsche Physikalische Gesellschaft (DPG), Germany (invited in 2026)
-- **Panellist on STEM and Quantum Education**, Quantum.Tech, USA (invited in 2025)
-- **Lecturer for a 10-day course on Quantum Natural Language Processing**, IIIT Dharwad, India (invited in 2025)
 - **Featured in *Physics World* Careers 2026 guide**, Institute of Physics (2026)
 - **Featured in *I Am Because We Are* (2023)**, Nicola Green's exhibition at Rhodes House commissioned for the 120th anniversary of the Rhodes Scholarships, as one of ten Scholars and Fellows; *Entangled Threads: Quantum Teleportation* and *Tapestry: Ajrak*
+- Declined invitations: two lectures at the School on Quantum Machine Learning, Deutsche Physikalische Gesellschaft (DPG), Germany (2026); a ten-day course on Quantum Natural Language Processing, Indian Institute of Information Technology (IIIT) Dharwad, India (2025); a panel on STEM and Quantum Education, Quantum.Tech, USA (2025)
 
 ## Pre-University and School Awards (selected)
 
