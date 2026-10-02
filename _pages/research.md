@@ -27,15 +27,15 @@ My research spans quantum foundations, quantum computing, and compositional appr
 
 - **Selma Dündar-Coecke, Lia Yeh, Emmanuel Pothos, Waseem, M. H., Bob Coecke.** (2026). Beyond Symbolic Algebra with Quantum Picturalism. *Frontiers in Cognition*.
 
-- **Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Waseem, M. H., Emmanuel M Pothos, Sieglinde Pfaendler, Vincent Wang-Mascianica, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist, Ilyas Khan.** (2026). High schoolers excel at Oxford quantum course using pictorial mathematics. *Journal of Physics: Conference Series*. IOP.
+- **Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Waseem, M. H., Emmanuel M Pothos, Sieglinde Pfaendler, Vincent Wang-Maścianica, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist, Ilyas Khan.** (2026). High schoolers excel at Oxford quantum course using pictorial mathematics. *Journal of Physics: Conference Series*. IOP.
 
-- **Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Waseem, M. H., Emmanuel M Pothos, Thomas Cervoni, Sieglinde M-L Pfaendler, Vincent Wang-Maścianica, Peter Sigrist, Ferdi Tomassini, Vincent Anandraj, Ilyas Khan, Stefano Gogioso, Aleks Kissinger, Bob Coecke.** (2025). Making the quantum world accessible to young learners through Quantum Picturalism: An experimental study. *arXiv preprint* arXiv:2504.01013.
+- **Selma Dündar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Emmanuel M Pothos, Thomas Cervoni, Sieglinde M-L Pfaendler, Vincent Wang-Maścianica, Peter Sigrist, Ferdi Tomassini, Vincent Anandraj, Ilyas Khan, Stefano Gogioso, Aleks Kissinger, Bob Coecke.** (2025). Making the quantum world accessible to young learners through Quantum Picturalism: An experimental study. *arXiv preprint* arXiv:2504.01013.
 
-- **Waseem, M. H., & Karenowska, A.** String Diagrams for Wave-based Computation. *Applied Physics Letters*.
+- **Waseem, M. H., & Karenowska, A.** (2023). String Diagrams for Wave-based Computation. *Applied Physics Letters*.
 
 - **Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Sieglinde M.-L. Pfaendler, Waseem, M. H., Thomas Cervoni, Stefano Gogioso, Aleks Kissinger, Bob Coecke.** (2023). Quantum Picturalism: Learning Quantum Theory in High School. In *Proceedings of QCE 2023*. IEEE.
 
-- **Gogioso, S., Wang-Mascianica, V., Waseem, M. H., Scandolo, C. M., & Coecke, B.** (2023). Constructor Theory as Process Theory. In *Proceedings of ACT 2023*.
+- **Gogioso, S., Wang-Maścianica, V., Waseem, M. H., Scandolo, C. M., & Coecke, B.** (2023). Constructor Theory as Process Theory. In *Proceedings of ACT 2023*.
 
 - **Waseem, M. H., Liu, J., Wang-Mascianica, V., & Coecke, B.** (2022). Language-independence of DisCoCirc's Text Circuits: English and Urdu. In *End-to-End Compositional Models of Vector-Based Semantics (E2ECOMPVEC)*. NUI Galway.
 
@@ -53,7 +53,7 @@ My research spans quantum foundations, quantum computing, and compositional appr
 
 ## Research Projects
 
-- **[Quantum in Pictures](https://www.quantinuum.com/news/quantum-in-pictures)** – Quantum Foundations, Computing, Linguistics, String Diagrams
+- **[Quantum in Pictures](https://www.quantinuum.com/news/quantum-in-pictures)**
 - **Quantum Foundations, Computing, Linguistics, String Diagrams**
 - **[Quantum Magnonics](https://www2.physics.ox.ac.uk/research/quantum-magnonics)**
 - **[Single Photon Quantum Mechanics](https://www.physlab.org/qmlab/)**
