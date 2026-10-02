@@ -32,18 +32,10 @@ nav_order: 5
 - **Best Senior Year Project in Electronics and Control Systems**, UET Lahore (2019)
 - **S. H. Durrani Gold Medal for Best Performance in Communication Engineering Subjects**, UET Lahore (2019)
 - **Shahid-ul-Haq Qureshi Gold Medal for Best Performance in Electronics and Communication Subjects**, UET Lahore (2019)
+- **Wolfram Summer School** (accepted to the 2018 cohort) 
 - **TechJuice 25 Under 25** (2017)
 - **Merit Scholarships**, UET Lahore (2016–19)
 - **1st Position in All Pakistan Science Poster Competition**, UET Lahore (2016)
-
-## Pre-University and School Awards (selected)
-
-- **Co-curricular Certificate of Merit**, GCU Lahore (2015)
-- **National Talent Scholarship**, BISE Lahore (2013–15)
-- **Student of the Year**, Cathedral High School, Lahore (2013)
-- **3rd Position in Secondary School Certificate Exam**, LDBE Lahore (2013)
-- **1st Position in Computer Science Exhibition**, LDBE Lahore (2012)
-- **4th Position in International Kangaroo Mathematics Contest** (2011)
 
 ## Invited Talks, Exhibitions and Features (selected)
 
@@ -57,3 +49,12 @@ nav_order: 5
 - **Lecturer for a 10-day course on Quantum Natural Language Processing**, IIIT Dharwad, India (invited in 2025)
 - **Featured in *Physics World* Careers 2026 guide**, Institute of Physics (2026)
 - **Featured in *I Am Because We Are* (2023)**, Nicola Green's exhibition at Rhodes House commissioned for the 120th anniversary of the Rhodes Scholarships, as one of ten Scholars and Fellows; *Entangled Threads: Quantum Teleportation* and *Tapestry: Ajrak*
+
+## Pre-University and School Awards (selected)
+
+- **Co-curricular Certificate of Merit**, GCU Lahore (2015)
+- **National Talent Scholarship**, BISE Lahore (2013–15)
+- **Student of the Year**, Cathedral High School, Lahore (2013)
+- **3rd Position in Secondary School Certificate Exam**, LDBE Lahore (2013)
+- **1st Position in Computer Science Exhibition**, LDBE Lahore (2012)
+- **4th Position in International Kangaroo Mathematics Contest** (2011)
