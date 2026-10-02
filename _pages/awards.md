@@ -36,7 +36,7 @@ nav_order: 5
 - **Merit Scholarships**, UET Lahore (2016–19)
 - **1st Position in All Pakistan Science Poster Competition**, UET Lahore (2016)
 
-## Pre-University and School Awards
+## Pre-University and School Awards (selected)
 
 - **Co-curricular Certificate of Merit**, GCU Lahore (2015)
 - **National Talent Scholarship**, BISE Lahore (2013–15)
@@ -45,9 +45,15 @@ nav_order: 5
 - **1st Position in Computer Science Exhibition**, LDBE Lahore (2012)
 - **4th Position in International Kangaroo Mathematics Contest** (2011)
 
-## Invited Talks, Exhibitions and Features
+## Invited Talks, Exhibitions and Features (selected)
 
 - **Public Lecture for the International Year of Quantum**, Department of Physics, University of Oxford (2025)
+- **Three Lectures on Quantum Natural Language Processing**, Aix-Marseille University, France (2025)
+- **History of Physics Lecture**, Institute of Physics, UK (2025)
 - **Panellist for the International Year of Quantum**, Royal Institution (2025)
+- **Two Lectures for International School on Quantum Science and Technology**, Ghana (2024)
+- **Two Lectures for School on Quantum Machine Learning**, Deutsche Physikalische Gesellschaft (DPG), Germany (invited in 2026)
+- 
+- **Two Lectures for International School on Quantum Science and Technology**, Ghana (2024)
 - **Featured in *Physics World* Careers 2026 guide**, Institute of Physics (2026)
 - **Featured in *I Am Because We Are* (2023)**, Nicola Green's exhibition at Rhodes House commissioned for the 120th anniversary of the Rhodes Scholarships, as one of ten Scholars and Fellows; *Entangled Threads: Quantum Teleportation* and *Tapestry: Ajrak*
