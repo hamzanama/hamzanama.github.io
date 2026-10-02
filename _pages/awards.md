@@ -53,7 +53,7 @@ nav_order: 5
 - **Panellist for the International Year of Quantum**, Royal Institution (2025)
 - **Two Lectures for International School on Quantum Science and Technology**, Ghana (2024)
 - **Two Lectures for School on Quantum Machine Learning**, Deutsche Physikalische Gesellschaft (DPG), Germany (invited in 2026)
-- 
-- **Two Lectures for International School on Quantum Science and Technology**, Ghana (2024)
+- **Panellist on STEM and Quantum Education**, Quantum.Tech, USA (invited in 2025)
+- **Lecturer for a 10-day course on Quantum Natural Language Processing**, IIIT Dharwad, India (invited in 2025)
 - **Featured in *Physics World* Careers 2026 guide**, Institute of Physics (2026)
 - **Featured in *I Am Because We Are* (2023)**, Nicola Green's exhibition at Rhodes House commissioned for the 120th anniversary of the Rhodes Scholarships, as one of ten Scholars and Fellows; *Entangled Threads: Quantum Teleportation* and *Tapestry: Ajrak*
