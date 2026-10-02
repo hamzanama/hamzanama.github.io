@@ -17,7 +17,7 @@ nav_order: 9
 
 - Faculty Lead for Engineering and Computer Science at Syracuse University London.
 - Visiting Lecturer and Examiner at the Mathematical Institute, University of Oxford.
-- Former Lecturer in Physics at Magdalen College, Oxford.
+- Former Lecturer in Physics at Magdalen College, University of Oxford.
 - Former Research Scientist (Quantum Natural Language Processing) at Quantinuum.
 - DPhil at Oxford linking process philosophy, string diagrams, quantum foundations, formal linguistics and quantum computing.
 - Rhodes Scholar for Pakistan, 2019.
