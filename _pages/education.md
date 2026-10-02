@@ -15,14 +15,14 @@ nav_order: 9
 
 ## Highlights
 
-- Faculty Lead for Engineering and Computer Science at Syracuse University London, where I launched the study-abroad programme and designed four of its courses.
-- Visiting Lecturer and Examiner at the Mathematical Institute, University of Oxford, co-teaching Introduction to Quantum Information with Artur Ekert and Compositional Distributional Models of Meaning with Bob Coecke.
+- Faculty Lead for Engineering and Computer Science at Syracuse University London.
+- Visiting Lecturer and Examiner at the Mathematical Institute, University of Oxford.
 - Former Lecturer in Physics at Magdalen College, Oxford.
-- Former Research Scientist at Quantinuum, working on quantum natural language processing and applied category theory on quantum hardware.
+- Former Research Scientist (Quantum Natural Language Processing) at Quantinuum.
 - DPhil at Oxford linking process philosophy, string diagrams, quantum foundations, formal linguistics and quantum computing.
 - Rhodes Scholar for Pakistan, 2019.
-- Co-creator of Quantum in Pictures, a programme teaching quantum theory to school students through diagrams, now in more than twelve countries; trained teachers in Greece and the United States to deliver it.
-- Principal author of *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing, 2020; second edition 2024), requested by institutions in more than thirty countries.
+- Co-creator of Quantum in Pictures, a programme teaching quantum theory to school students through diagrams.
+- Principal author of *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing, 2020; second edition 2024).
 - Helped establish Pakistan's first single-photon quantum optics laboratory and the Ibn Sahl Corner for Optics at PhysLab, LUMS.
 - Core organiser of the Lahore Science Mela (2017–2019), Pakistan's largest annual science festival.
 - Co-founder of Spectra Magazine, Pakistan's country-wide student science-writing platform, later its Managing Director.
