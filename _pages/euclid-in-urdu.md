@@ -44,8 +44,6 @@ I am grateful to Dr Benjamin Wardhaugh of the Faculty of History, Prof Christoph
 
 ## Further reading
 
-## Further reading
-
 - <a href="https://www.history.ox.ac.uk/reading-euclid" style="color:#0076df">Reading Euclid: Euclid's <em>Elements</em> of Geometry in Early Modern Britain and Ireland</a>, AHRC project, University of Oxford (2016–2018).
 - Wardhaugh, B., Beeley, P. and Nasifoglu, Y. <a href="https://doi.org/10.5281/zenodo.4269490" style="color:#0076df"><em>Euclid in Print, 1482–1703: A Catalogue of the Editions of the</em> Elements <em>and Other Euclidean Works</em></a>, version 2 (2025).
 - Wardhaugh, B. <a href="https://doi.org/10.1016/j.hm.2024.07.002" style="color:#0076df">'Euclidean terms in European languages, 1482–1703'</a>, <em>Historia Mathematica</em> 68 (2024), 22–37.
