@@ -53,6 +53,6 @@ nav_order: 5
 - **Co-curricular Certificate of Merit**, GCU Lahore (2015)
 - **National Talent Scholarship**, BISE Lahore (2013–15)
 - **Student of the Year**, Cathedral High School, Lahore (2013)
-- **3rd Position in Secondary School Certificate Exam**, LDBE Lahore (2013)
-- **1st Position in Computer Science Exhibition**, LDBE Lahore (2012)
+- **3rd Position in Secondary School Certificate Exam**, Lahore Diocesan Board of Education (2013)
+- **1st Position in Computer Science Exhibition**, Lahore Diocesan Board of Education (2012)
 - **4th Position in International Kangaroo Mathematics Contest** (2011)
