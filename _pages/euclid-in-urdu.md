@@ -13,18 +13,15 @@ nav: false
 
 **In brief.** In the nineteenth century Euclid's *Elements* was translated into Urdu and taught in North Indian colleges, largely through the work of Munshi Zakaullah of Delhi. Some thirty of his books survive in digitised form and have never been studied as mathematics. This project reads them, and I am looking for collaborators: readers of nineteenth-century Urdu, historians of the Arabic and Persian Euclid traditions, and a partner for a bilingual edition.
 
-<div class="row mt-3 mb-3">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/zakaullah-euclid-page.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/zakaullah-portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:1.5rem; flex-wrap:wrap; margin:1.5rem 0;">
+  <img src="/assets/img/zakaullah-euclid-page.jpg" alt="Urdu Euclid, Book I propositions 17 and 18"
+       style="height:420px; width:auto; max-width:60%; object-fit:cover; object-position:top; border-radius:4px; box-shadow:0 2px 6px rgba(0,0,0,.2);">
+  <img src="/assets/img/zakaullah-portrait.jpg" alt="Munshi Zakaullah"
+       style="height:420px; width:auto; max-width:35%; object-fit:contain; border-radius:4px; box-shadow:0 2px 6px rgba(0,0,0,.2);">
 </div>
 <div class="caption">
-  Left: Propositions 17 and 18 of Book I in an Urdu Euclid, from the Zakaullah corpus. Right: Munshi Zakaullah in later life, from C. F. Andrews, <em>Zaka Ullah of Delhi</em> (1929).
+  Left: Proposition 17 of Book I in an Urdu Euclid, from the Zakaullah corpus. Right: Munshi Zakaullah in later life, from <em>The Modern Review</em> (April, 1911).
 </div>
-
 
 In the second half of the nineteenth century, Euclid's *Elements* was read, translated and taught in Urdu in North India. The central figure is Munshi Zakaullah (1832–1910). He studied and then taught mathematics at Delhi College, and from 1872 to 1887 was professor at Muir Central College in Allahabad, teaching Western science through Urdu. His mathematical and educational writings formed part of the Aligarh movement, the reform initiative that reconfigured Muslim education by incorporating Western scientific and mathematical learning. Urdu was its principal medium of instruction. His Euclid translations and pedagogical writings were used in classrooms at institutions such as Delhi College, Muir Central College and the Oriental College in Lahore. The translations drew primarily on English editions, including those of [Isaac Todhunter](https://archive.org/search?query=Todhunter+Elements+of+Euclid) and [Robert Potts](https://archive.org/search?query=Potts+Euclid%27s+Elements+of+Geometry). Persian and Arabic Euclidean traditions continued to circulate in South Asia alongside them.
 
