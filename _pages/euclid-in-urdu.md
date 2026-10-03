@@ -6,7 +6,12 @@ permalink: /euclid-in-urdu/
 nav: false
 ---
 
-In the second half of the nineteenth century, Euclid's *Elements* was read, translated and taught in Urdu in North India. The central figure is [Munshi Zakaullah](https://www.rekhta.org/authors/munshi-mohammad-zakaullah/profile) (1832–1910). He studied and then taught mathematics at Delhi College, and from 1872 to 1887 was professor at Muir Central College in Allahabad, teaching Western science through Urdu. His mathematical and educational writings formed part of the Aligarh movement, the reform initiative that reconfigured Muslim education by incorporating Western scientific and mathematical learning. Urdu was its principal medium of instruction. His Euclid translations and pedagogical writings were used in classrooms at institutions such as Delhi College, Muir Central College and the Oriental College in Lahore. The translations drew primarily on English editions, including those of [Isaac Todhunter](https://archive.org/search?query=Todhunter+Elements+of+Euclid) and [Robert Potts](https://archive.org/search?query=Potts+Euclid%27s+Elements+of+Geometry). Persian and Arabic Euclidean traditions continued to circulate in South Asia alongside them.
+<style>
+  .post-content a, .post-content a:visited { color: #0076df; }
+  .post-content a:hover { color: #0056a3; text-decoration: underline; }
+</style>
+
+**In brief.** In the nineteenth century Euclid's *Elements* was translated into Urdu and taught in North Indian colleges, largely through the work of Munshi Zakaullah of Delhi. Some thirty of his books survive in digitised form and have never been studied as mathematics. This project reads them, and I am looking for collaborators: readers of nineteenth-century Urdu, historians of the Arabic and Persian Euclid traditions, and a partner for a bilingual edition.
 
 <div class="row mt-3 mb-3">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -19,6 +24,9 @@ In the second half of the nineteenth century, Euclid's *Elements* was read, tran
 <div class="caption">
   Left: Propositions 17 and 18 of Book I in an Urdu Euclid, from the Zakaullah corpus. Right: Munshi Zakaullah in later life, from C. F. Andrews, <em>Zaka Ullah of Delhi</em> (1929).
 </div>
+
+
+In the second half of the nineteenth century, Euclid's *Elements* was read, translated and taught in Urdu in North India. The central figure is Munshi Zakaullah (1832–1910). He studied and then taught mathematics at Delhi College, and from 1872 to 1887 was professor at Muir Central College in Allahabad, teaching Western science through Urdu. His mathematical and educational writings formed part of the Aligarh movement, the reform initiative that reconfigured Muslim education by incorporating Western scientific and mathematical learning. Urdu was its principal medium of instruction. His Euclid translations and pedagogical writings were used in classrooms at institutions such as Delhi College, Muir Central College and the Oriental College in Lahore. The translations drew primarily on English editions, including those of [Isaac Todhunter](https://archive.org/search?query=Todhunter+Elements+of+Euclid) and [Robert Potts](https://archive.org/search?query=Potts+Euclid%27s+Elements+of+Geometry). Persian and Arabic Euclidean traditions continued to circulate in South Asia alongside them.
 
 The question is how a text long central to European educational life acquired new meanings when rendered into Urdu, embedded in reformed curricula and mobilised within Muslim reformist visions of modern education. And how, in turn, these practices reshaped both Euclidean geometry and local mathematical cultures.
 
@@ -46,4 +54,3 @@ The Urdu chapter of Euclid's history is largely unwritten, and I am looking for 
 - Pernau, M. (ed.). *The Delhi College: Traditional Elites, the Colonial State, and Education before 1857*. Oxford University Press, 2006.
 - Chughtai, M. I. (ed.). *Qadeem Dehli College* (in Urdu). Lahore.
 - Abbas, A. (ed.). *Sir Syed ki Scientific Society* (in Urdu). Majlis-e-Taraqqi-e-Adab, Lahore.
-- Zakaullah's Urdu books, digitised at [Rekhta](https://www.rekhta.org/authors/mohammad-zakaullah/ebooks).
