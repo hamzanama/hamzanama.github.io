@@ -13,7 +13,7 @@ nav: false
   .post-content a:hover { color: #0056a3 !important; text-decoration: underline; }
 </style>
 
-**In brief.** In the nineteenth century Euclid's *Elements* was translated into Urdu and taught in North Indian colleges, largely through the work of Munshi Zakaullah of Delhi. Some thirty of his books survive in digitised form and have never been studied as mathematics. This project reads them, and I am looking for collaborators: readers of nineteenth-century Urdu, historians of the Arabic and Persian Euclid traditions, and a partner for a bilingual edition.
+**Overview:** In the nineteenth century, Euclid's <em>Elements</em> was translated into Urdu and taught in North Indian colleges, largely through the work of Munshi Zakaullah of Delhi. A significant number of his books survive and have largely been ignored in the history of mathematics. The project asks what happened to the <em>Elements</em> when it crossed into Urdu. Which English editions did Zakaullah work from? How did he render proof and diagram? What did he keep from the Arabic and Persian Euclids? And what did the whole undertaking mean for a reform movement that put Western mathematics at the centre of Muslim education? I am looking for collaborators: mathematicians, historians, mathematics popularisers, mathematics teachers, translators and linguists.
 
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:1.5rem; flex-wrap:wrap; margin:1.5rem 0;">
   <img src="/assets/img/zakaullah-euclid-page.jpg" alt="Urdu Euclid, Book I propositions 17 and 18"
