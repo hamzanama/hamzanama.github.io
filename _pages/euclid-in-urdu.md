@@ -8,7 +8,17 @@ nav: false
 
 In the second half of the nineteenth century, Euclid's *Elements* was read, translated and taught in Urdu in North India. The central figure is [Munshi Zakaullah](https://www.rekhta.org/authors/munshi-mohammad-zakaullah/profile) (1832–1910). He studied and then taught mathematics at Delhi College, and from 1872 to 1887 was professor at Muir Central College in Allahabad, teaching Western science through Urdu. His mathematical and educational writings formed part of the Aligarh movement, the reform initiative that reconfigured Muslim education by incorporating Western scientific and mathematical learning. Urdu was its principal medium of instruction. His Euclid translations and pedagogical writings were used in classrooms at institutions such as Delhi College, Muir Central College and the Oriental College in Lahore. The translations drew primarily on English editions, including those of [Isaac Todhunter](https://archive.org/search?query=Todhunter+Elements+of+Euclid) and [Robert Potts](https://archive.org/search?query=Potts+Euclid%27s+Elements+of+Geometry). Persian and Arabic Euclidean traditions continued to circulate in South Asia alongside them.
 
-<!-- image: a Zakaullah diagram beside its Todhunter source -->
+<div class="row mt-3 mb-3">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/zakaullah-euclid-page.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/zakaullah-portrait.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  Left: Propositions 17 and 18 of Book I in an Urdu Euclid, from the Zakaullah corpus. Right: Munshi Zakaullah in later life, from C. F. Andrews, <em>Zaka Ullah of Delhi</em> (1929).
+</div>
 
 The question is how a text long central to European educational life acquired new meanings when rendered into Urdu, embedded in reformed curricula and mobilised within Muslim reformist visions of modern education. And how, in turn, these practices reshaped both Euclidean geometry and local mathematical cultures.
 
@@ -32,4 +42,8 @@ The Urdu chapter of Euclid's history is largely unwritten, and I am looking for 
 - Chemla, K. (ed.). *The History of Mathematical Proof in Ancient Traditions*. Cambridge University Press, 2012.
 - Todhunter, I. [*The Elements of Euclid for the Use of Schools and Colleges*](https://archive.org/search?query=Todhunter+Elements+of+Euclid). Macmillan, 1867.
 - Potts, R. [*Euclid's Elements of Geometry: The First Six Books*](https://archive.org/search?query=Potts+Euclid%27s+Elements+of+Geometry). Longman, Green, and Co., 1865.
+- Andrews, C. F. *Zaka Ullah of Delhi* (1929). Reissued with introductions by Mushirul Hasan and Margrit Pernau, Oxford University Press, 2003.
+- Pernau, M. (ed.). *The Delhi College: Traditional Elites, the Colonial State, and Education before 1857*. Oxford University Press, 2006.
+- Chughtai, M. I. (ed.). *Qadeem Dehli College* (in Urdu). Lahore.
+- Abbas, A. (ed.). *Sir Syed ki Scientific Society* (in Urdu). Majlis-e-Taraqqi-e-Adab, Lahore.
 - Zakaullah's Urdu books, digitised at [Rekhta](https://www.rekhta.org/authors/mohammad-zakaullah/ebooks).
