@@ -22,7 +22,7 @@ nav: false
        style="height:420px; width:auto; max-width:35%; object-fit:contain; border-radius:4px; box-shadow:0 2px 6px rgba(0,0,0,.2);">
 </div>
 <div class="caption">
-  Left: Proposition 17 of Book I in an Urdu Euclid, from the Zakaullah corpus.<br>
+  Left: Proposition 17 of Book I in an Urdu Euclid, from the Zakaullah corpus (circa 1870s).<br>
   Right: Munshi Zakaullah in later life, from <em>The Modern Review</em> (April 1911).
 </div>
 
