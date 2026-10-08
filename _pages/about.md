@@ -20,13 +20,17 @@ latest_posts:
 ---
 
 
-Muhammad Hamza Waseem is a quantum physicist. He works on the foundations of quantum theory, quantum computing and the mathematics of composition. The underlying theme is that the world is made of processes rather than objects, and that this view is best expressed in the language of string diagrams. He is the Faculty Lead for Engineering and Computer Science at Syracuse University London. He also teaches mathematics and physics at the University of Oxford, and consults on quantum science education.
+Muhammad Hamza Waseem is a quantum physicist. He works on the foundations of quantum theory, quantum computing and the mathematics of composition. The underlying theme is that the world is made of processes rather than objects, and that this view is best expressed in the language of string diagrams. 
 
-He completed his DPhil in Condensed Matter Physics at Oxford as a Rhodes Scholar, and worked as a Research Scientist at Quantinuum. His doctoral work used process-relational metaphysics and string-diagrammatic mathematics to investigate three research areas: quantum foundations, computing and natural language processing. His early doctoral research was experimental, on microwaves and spin waves in magnetic materials at the Clarendon Laboratory. 
+He is the Faculty Lead for Engineering and Computer Science at Syracuse University London, where he helped launch the study-abroad engineering programme, led the development of the study-abroad computer science programme, developed and taught six courses.
 
-During his undergraduate studies in electrical engineering at UET Lahore, he helped establish Pakistan's first single-photon quantum physics laboratory and co-authored *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing), now in its second edition. He also worked on dielectric metasurfaces for visible-light holography and optical polarimetry.
+He is a Visiting Lecturer and Examiner at the Mathematical Institute, University of Oxford, and a Visiting Senior Research Fellow at GCAS College Dublin. He consults on quantum science education. He was previously Lecturer in Physics at Magdalen College, University of Oxford.
 
-His work has been covered by *Physics World*, *The Guardian*, *The Quantum Insider*, *Quantum Zeitgeist* and Pakistan's national press, and featured in Nicola Green's exhibition *I Am Because We Are* at Rhodes House. See the [Media](/media/) page.
+He completed his DPhil in Condensed Matter Physics at Oxford as a Rhodes Scholar. His doctoral work used process-relational metaphysics and string-diagrammatic mathematics to investigate three research areas: quantum foundations, computing and natural language processing. His early doctoral research was experimental, on microwaves and spin waves in magnetic materials at the Clarendon Laboratory. He then worked as a Research Scientist at Quantinuum, the world’s largest integrated quantum computing company, on quantum natural language processing.
+
+He studied electrical engineering at UET Lahore, graduating with two gold medals and an award for best senior-year project. While an undergraduate, he helped establish Pakistan’s first single-photon quantum physics laboratory and the Ibn Sahl Corner for Optics at PhysLab, LUMS. He co-authored *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing), now in its second edition. He also worked on dielectric metasurfaces for visible-light holography and optical polarimetry.
+
+In the International Year of Quantum, 2025, he delivered an invited public lecture at the Department of Physics, University of Oxford, and was an invited panellist at the Royal Institution. He has given more than seventy talks, workshops and interviews across the UK, Europe, Africa and South Asia, with recordings viewed over 220,000 times. His work has been covered by *Physics World*, *The Guardian*, *The Quantum Insider*, *Quantum Zeitgeist* and Pakistan's national press, and featured in Nicola Green's exhibition *I Am Because We Are* at Rhodes House. See the [Media](/media/) page.
 
 ## Engagement and Outreach
 
