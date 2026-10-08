@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-Muhammad Hamza Waseem is a physicist working on quantum foundations and quantum computing, with an emphasis on compositional, process-based perspectives. He is the Faculty Lead for Engineering and Computer Science at Syracuse University London. He also teaches mathematics and physics part-time at the University of Oxford, and consults on quantum science education.
+Muhammad Hamza Waseem is a physicist working on quantum foundations and quantum computing, with an emphasis on compositional, process-based perspectives. He is the Faculty Lead for Engineering and Computer Science at Syracuse University London. He also teaches mathematics and physics at the University of Oxford, and consults on quantum science education.
 
 He completed his DPhil in Condensed Matter Physics at Oxford as a Rhodes Scholar, and worked as a Research Scientist at Quantinuum. During his undergraduate studies in electrical engineering at UET Lahore, he helped establish Pakistan's first single-photon quantum physics laboratory and co-authored *Quantum Mechanics in the Single-Photon Laboratory* (IOP Publishing), now in its second edition.
 
