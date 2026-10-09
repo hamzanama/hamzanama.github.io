@@ -28,7 +28,12 @@ nav: false
 - William P. Thurston, <a href="https://arxiv.org/pdf/math/9404236" style="color:#0076df !important">On Proof and Progress in Mathematics</a>, 1994.
 - David Bessis, <a href="https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300" style="color:#0076df !important">We've been wrong about math for 2300 years</a>.
 
+## Shorter Pieces
+
+- Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
+
 ## Books
 
 - David Bessis, <a href="https://yalebooks.co.uk/book/9780300283280/mathematica/" style="color:#0076df !important"><em>Mathematica: A Secret World of Intuition and Curiosity</em></a>. Yale University Press, 2025.
 - Reuben Hersh (ed.), <a href="https://link.springer.com/book/10.1007/0-387-29831-2" style="color:#0076df !important"><em>18 Unconventional Essays on the Nature of Mathematics</em></a>. Springer, 2006.
+
