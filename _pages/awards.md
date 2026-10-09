@@ -9,16 +9,15 @@ nav_order: 5
 ## Research and Engagement Awards
 
 - **Research Engagement Award (High Commendation)**, Vice Chancellor's Awards, University of Oxford (2026)
-- **Nominated for the IOP Daphne Jackson Medal and Prize** by the Department of Physics, University of Oxford (2025)
 - **MPLS Public Engagement with Research Impact Award**, University of Oxford (2024)
-- **Recipient of The Diana Award** (2021)
+- **The Diana Award** (2021)
 - **High Commendation in Communication Category**, SEPnet Public Engagement Awards (2021)
 
 ## Academic Honours
 
 - **Senior Research Fellowship**, Global Centre for Advanced Studies, Dublin (2025)
+- **Nominated for the IOP Daphne Jackson Medal and Prize** by the Department of Physics, University of Oxford (2025) 
 - **Research Fellowship**, Global Centre for Advanced Studies, Dublin (2021)
-- **Return to Research Grant**, Rank Prize (2021)
 - **Rhodes Scholarship**, Rhodes Trust (2019)
 - **Best Senior Year Project in Electronics and Control Systems**, UET Lahore (2019)
 - **S. H. Durrani Gold Medal for Best Performance in Communication Engineering Subjects**, UET Lahore (2019)
@@ -33,6 +32,7 @@ nav_order: 5
 - **Research Grant**, Stanford House (Oxford), Stanford University (2023)
 - **Research Travel Grant**, Magdalen College (2023)
 - **SSF Grant**, Magdalen College (2022)
+- **Return to Research Grant**, Rank Prize (2021)
 - **WDF Grant**, Rhodes Trust (2021)
 - **IET Outreach Grants and Equipment Kits** for hospital and school programmes (2017–2019)
 
