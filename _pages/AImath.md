@@ -31,7 +31,7 @@ nav: false
 ## Shorter Pieces
 
 - Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
-   David Bessis, <a href="https://x.com/davidbessis/status/1849090602018681299" style="color:#0076df !important">"My favorite piece by Thurston…"</a>, post on X, 23 October 2024.
+- David Bessis, <a href="https://x.com/davidbessis/status/1849090602018681299" style="color:#0076df !important">"My favorite piece by Thurston…"</a>, post on X, 23 October 2024.
 
 ## Books
 
