@@ -23,6 +23,7 @@ nav: false
 - Emily Riehl, <a href="https://terrytao.wordpress.com/2026/09/14/why-i-do-mathematical-research/" style="color:#0076df !important">Why I do mathematical research</a>, guest post on Terence Tao's blog.
 - David Bessis, <a href="https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy" style="color:#0076df !important">The fall of the theorem economy</a>.
 - Anonymous, <a href="https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/" style="color:#0076df !important">Could AI Help Mathematics Escape the Meritocracy Trap?</a>.
+- Alex Meiburg, <a href="https://blog.ohaithe.re/post/829972087725817856/thoughts-on-ai-solving-math" style="color:#0076df !important">Thoughts on AI Solving "Math"</a>.
 
 ## Earlier
 
