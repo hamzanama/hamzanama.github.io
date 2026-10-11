@@ -22,6 +22,7 @@ nav: false
 - Francis Su, <a href="https://francissu.substack.com/p/love-of-humanity-is-not-enough" style="color:#0076df !important">Love of Humanity Is Not Enough</a>.
 - Emily Riehl, <a href="https://terrytao.wordpress.com/2026/09/14/why-i-do-mathematical-research/" style="color:#0076df !important">Why I do mathematical research</a>, guest post on Terence Tao's blog.
 - David Bessis, <a href="https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy" style="color:#0076df !important">The fall of the theorem economy</a>.
+- Anonymous, <a href="https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/" style="color:#0076df !important">Could AI Help Mathematics Escape the Meritocracy Trap?</a>.
 
 ## Earlier
 
@@ -30,6 +31,7 @@ nav: false
 
 ## Shorter Pieces
 
+- Amar Hadzihasanovic, <a href="https://x.com/amar_hh/status/2109319258475987449" style="color:#0076df !important">"We participate in a millenary tradition…"</a>, post on X, 11 October 2026.
 - Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
 - David Bessis, <a href="https://x.com/davidbessis/status/1849090602018681299" style="color:#0076df !important">"My favorite piece by Thurston…"</a>, post on X, 23 October 2024.
 
