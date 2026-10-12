@@ -32,6 +32,7 @@ nav: false
 
 ## Shorter Pieces
 
+- David Bessis, <a href="https://x.com/davidbessis/status/2109602625184309658" style="color:#0076df !important">"10 remarks on AI and math…"</a>, post on X, 12 October 2026.
 - Amar Hadzihasanovic, <a href="https://x.com/amar_hh/status/2109319258475987449" style="color:#0076df !important">"We participate in a millenary tradition…"</a>, post on X, 11 October 2026.
 - Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
 - David Bessis, <a href="https://x.com/davidbessis/status/1849090602018681299" style="color:#0076df !important">"My favorite piece by Thurston…"</a>, post on X, 23 October 2024.
