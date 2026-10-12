@@ -12,6 +12,12 @@ nav: false
   .post a:hover, main a:hover { color: #0056a3 !important; text-decoration: underline; }
 </style>
 
+One of the silver linings of the AI-in-mathematics buzz is the earnest debate on questions like what mathematics is, what/whom it is for, why we do it, etc. These are extremely important questions for education, culture and life. The AI onslaught in mathematics this year has made these questions more urgent than ever. 
+
+I am curating a list of my favourite pieces of writing here.
+
+I will update it regularly. Happy to receive recommendations for the list.
+
 ## 2026
 
 - Matilde Marcolli, <a href="https://www.its.caltech.edu/~matilde/AImathNew.pdf" style="color:#0076df !important">Duet for the End of Math</a>.
