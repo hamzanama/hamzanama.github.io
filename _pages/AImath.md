@@ -21,6 +21,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 ## 2026
 
 - Matilde Marcolli, <a href="https://www.its.caltech.edu/~matilde/AImathNew.pdf" style="color:#0076df !important">Duet for the End of Math</a>.
+- Alexander Gamburd, <a href="https://arxiv.org/abs/2609.28591" style="color:#0076df !important">The Siren Call of Silicon Leviathan</a>.
 - Grant Sanderson, <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" style="color:#0076df !important">If math is more than proof, we need to better celebrate the rest of it</a>, guest post on Terence Tao's blog.
 - <a href="https://mathandai.org/" style="color:#0076df !important">A Severe Misalignment of AI in Mathematics</a>, open statement.
 - Stefano Gogioso, <a href="https://www.linkedin.com/pulse/why-i-am-excited-opposed-frightened-ai-mathematics-stefano-gogioso-gz2ye/" style="color:#0076df !important">Why I am excited, as opposed to frightened, by the AI mathematics revolution</a>.
