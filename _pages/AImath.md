@@ -12,6 +12,8 @@ nav: false
   .post a:hover, main a:hover { color: #0056a3 !important; text-decoration: underline; }
 </style>
 
+8th October, 2026.
+
 One of the silver linings of the AI-in-mathematics buzz is the earnest debate on questions like what mathematics is, what/whom it is for, why we do it, etc. These are extremely important questions for education, culture and life. The AI onslaught in mathematics this year has made these questions more urgent than ever. 
 
 I am curating a list of my favourite pieces of writing here.
@@ -42,6 +44,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 ## Shorter Pieces
 
 - David Bessis, <a href="https://x.com/davidbessis/status/2109602625184309658" style="color:#0076df !important">"10 remarks on AI and math…"</a>, post on X, 12 October 2026.
+- Daniel Litt, <a href="https://x.com/littmath/status/2109481266613764284" style="color:#0076df !important">"Apart from general awkwardness…"</a>, post on X, 12 October 2026.
 - Amar Hadzihasanovic, <a href="https://x.com/amar_hh/status/2109319258475987449" style="color:#0076df !important">"We participate in a millenary tradition…"</a>, post on X, 11 October 2026.
 - Francesco Maggi, <a href="https://x.com/Frances01896069/status/2108525699187237111" style="color:#0076df !important">"One thing that seems lost…"</a>, post on X, 9 October 2026.
 - Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
@@ -51,4 +54,16 @@ I will update it regularly. Happy to receive recommendations for the list.
 
 - David Bessis, <a href="https://yalebooks.co.uk/book/9780300283280/mathematica/" style="color:#0076df !important"><em>Mathematica: A Secret World of Intuition and Curiosity</em></a>. Yale University Press, 2025.
 - Reuben Hersh (ed.), <a href="https://link.springer.com/book/10.1007/0-387-29831-2" style="color:#0076df !important"><em>18 Unconventional Essays on the Nature of Mathematics</em></a>. Springer, 2006.
+
+Update: 17th October 2026.
+
+I have started adding audio and video materials.
+
+## Multimedia
+
+- Cédric Villani in conversation with Takahiro Anno, <a href="https://www.youtube.com/watch?v=Pw6T73an83g" style="color:#0076df !important">AI and mathematics: OpenAI's announcement and the mathematicians' statement</a>, YouTube, 16 October 2026.
+- Terence Tao, <a href="https://www.youtube.com/watch?v=bAnwMdfcMVw" style="color:#0076df !important">No More Heroes</a>, Numberphile, YouTube, 15 October 2026.
+- Hugo Duminil-Copin, <a href="https://www.youtube.com/watch?v=omuJpoV-Ko4" style="color:#0076df !important">The Strip Mining of Mathematical Proofs</a>, Numberphile Podcast, 14 October 2026.
+- Steven Strogatz, <a href="https://www.youtube.com/watch?v=LfGenpmOjDQ" style="color:#0076df !important">When A.I. Comes for Your Purpose in Life</a>, <em>The Daily</em>, New York Times, 13 October 2026.
+- Tristan Buckmaster, <a href="https://www.youtube.com/watch?v=Mzbtj5nkMXI" style="color:#0076df !important">The Buckmaster Interview (Navier-Stokes)</a>, Numberphile, YouTube, 29 September 2026.
 
