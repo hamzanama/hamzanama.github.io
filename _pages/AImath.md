@@ -36,6 +36,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Anonymous, <a href="https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/" style="color:#0076df !important">Could AI Help Mathematics Escape the Meritocracy Trap?</a>.
 - Fernando Borretti, <a href="https://borretti.me/article/no-man-is-an-island" style="color:#0076df !important">No Man Is an Island</a>.
 - Tim Gowers in conversation with Rowland Manthorpe, <a href="https://rowlandmanthorpe.substack.com/p/the-end-of-mathematicians" style="color:#0076df !important">The end of mathematicians?</a>.
+- Tristan Buckmaster, <a href="https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/" style="color:#0076df !important">Mathematics is a subject for the young</a>, guest post on Terence Tao's blog.
 
 ## Earlier
 
