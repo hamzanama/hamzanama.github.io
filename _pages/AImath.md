@@ -37,6 +37,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Fernando Borretti, <a href="https://borretti.me/article/no-man-is-an-island" style="color:#0076df !important">No Man Is an Island</a>.
 - Tim Gowers in conversation with Rowland Manthorpe, <a href="https://rowlandmanthorpe.substack.com/p/the-end-of-mathematicians" style="color:#0076df !important">The end of mathematicians?</a>.
 - Tristan Buckmaster, <a href="https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/" style="color:#0076df !important">Mathematics is a subject for the young</a>, guest post on Terence Tao's blog.
+- Anonymous PhD student, <a href="https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/" style="color:#0076df !important">Who will become the new mathematicians of Math 2.0?</a>.
 
 ## Earlier
 
