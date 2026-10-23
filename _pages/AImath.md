@@ -39,6 +39,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Tristan Buckmaster, <a href="https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/" style="color:#0076df !important">Mathematics is a subject for the young</a>, guest post on Terence Tao's blog.
 - Anonymous PhD student, <a href="https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/" style="color:#0076df !important">Who will become the new mathematicians of Math 2.0?</a>.
 - Álvaro Lozano-Robledo, <a href="https://proofsandprompts.com/2026/10/23/a-response-to-who-will-become-the-new-mathematicians-of-math-2-0/" style="color:#0076df !important">A Response to “Who will become the new mathematicians of Math 2.0?”</a>.
+- Francesco Maggi, <a href="https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/" style="color:#0076df !important">Will it be a golden age or a dark age for mathematics (and science)?</a>, guest post on Terence Tao's blog.
 
 ## Earlier
 
