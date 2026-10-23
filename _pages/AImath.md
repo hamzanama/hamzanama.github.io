@@ -38,6 +38,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Tim Gowers in conversation with Rowland Manthorpe, <a href="https://rowlandmanthorpe.substack.com/p/the-end-of-mathematicians" style="color:#0076df !important">The end of mathematicians?</a>.
 - Tristan Buckmaster, <a href="https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/" style="color:#0076df !important">Mathematics is a subject for the young</a>, guest post on Terence Tao's blog.
 - Anonymous PhD student, <a href="https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/" style="color:#0076df !important">Who will become the new mathematicians of Math 2.0?</a>.
+- Álvaro Lozano-Robledo, <a href="https://proofsandprompts.com/2026/10/23/a-response-to-who-will-become-the-new-mathematicians-of-math-2-0/" style="color:#0076df !important">A Response to “Who will become the new mathematicians of Math 2.0?”</a>.
 
 ## Earlier
 
