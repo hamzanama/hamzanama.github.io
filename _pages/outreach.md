@@ -64,6 +64,7 @@ A student-run science-writing platform I co-founded, providing mentorship and pu
 ## Selected Presentations, Talks, and Interviews
 
 ### 2026
+- **Mathematics in the Age of AI** – National STEM School, Pakistan (online)
 - **A Gentle Introduction to the ZXW Calculus (and what you can do with it)** – University of Hertfordshire, UK
 - **What Comes Next: After Quantum in Pictures** – University of Hertfordshire, UK
 - **[Quantum Physics in Pictures](https://www.youtube.com/watch?v=x8SyVxRLec4&list=PLubPIZpSIG78Zz3Wp_JfDy2bAOeJDfKGJ&index=3)** – Insight into Science, Balliol College, Oxford (online)
