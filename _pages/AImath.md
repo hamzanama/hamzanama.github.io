@@ -68,6 +68,7 @@ I have started adding audio and video materials.
 
 ## Multimedia
 
+- Steven Strogatz in conversation with Grant Sanderson, <a href="https://www.youtube.com/watch?v=xUSznTR2cwc" style="color:#0076df !important">Steven Strogatz on the Humanity of Math</a>, 3b1b Podcast, YouTube, 27 October 2026.
 - Grant Sanderson, <a href="https://www.youtube.com/watch?v=LKrwhjOI8Nc" style="color:#0076df !important">There's never been a better time to go into math</a>, 3Blue1Brown, YouTube, 16 October 2026.
 - Cédric Villani in conversation with Takahiro Anno, <a href="https://www.youtube.com/watch?v=Pw6T73an83g" style="color:#0076df !important">AI and mathematics: OpenAI's announcement and the mathematicians' statement</a>, YouTube, 16 October 2026.
 - Terence Tao, <a href="https://www.youtube.com/watch?v=bAnwMdfcMVw" style="color:#0076df !important">No More Heroes</a>, Numberphile, YouTube, 15 October 2026.
