@@ -42,7 +42,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Francesco Maggi, <a href="https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/" style="color:#0076df !important">Will it be a golden age or a dark age for mathematics (and science)?</a>, guest post on Terence Tao's blog.
 - Anonymous, <a href="https://nihilunbounded.substack.com/p/who-watches-the-watchmen" style="color:#0076df !important">Who Watches The Watchmen?</a>.
 - Manuel Rivera, <a href="https://vislumbres.github.io/#/post/raw-mathematics" style="color:#0076df !important">Raw Mathematics</a>.
-- Eugenia Cheng, <a href="https://observer.co.uk/news/opinion-and-ideas/article/ai-will-never-replicate-the-poetry-of-mathematics-no-matter-how-fast-it-gets" style="color:#0076df !important">AI will never replicate the poetry of mathematics, no matter how fast it gets</a>, <em>The Observer</em>.
+- Eugenia Cheng, <a href="https://observer.co.uk/news/opinion-and-ideas/article/ai-will-never-replicate-the-poetry-of-mathematics-no-matter-how-fast-it-gets" style="color:#0076df !important">AI will never replicate the poetry of mathematics, no matter how fast it gets</a>.
 
 ## Earlier
 
