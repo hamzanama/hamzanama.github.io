@@ -43,6 +43,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Anonymous, <a href="https://nihilunbounded.substack.com/p/who-watches-the-watchmen" style="color:#0076df !important">Who Watches The Watchmen?</a>.
 - Manuel Rivera, <a href="https://vislumbres.github.io/#/post/raw-mathematics" style="color:#0076df !important">Raw Mathematics</a>.
 - Eugenia Cheng, <a href="https://observer.co.uk/news/opinion-and-ideas/article/ai-will-never-replicate-the-poetry-of-mathematics-no-matter-how-fast-it-gets" style="color:#0076df !important">AI will never replicate the poetry of mathematics, no matter how fast it gets</a>.
+- Anonymous, <a href="https://doomslide.substack.com/p/against-mathematics" style="color:#0076df !important">Against Mathematics</a>.
 
 ## Earlier
 
