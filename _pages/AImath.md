@@ -44,6 +44,8 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Manuel Rivera, <a href="https://vislumbres.github.io/#/post/raw-mathematics" style="color:#0076df !important">Raw Mathematics</a>.
 - Eugenia Cheng, <a href="https://observer.co.uk/news/opinion-and-ideas/article/ai-will-never-replicate-the-poetry-of-mathematics-no-matter-how-fast-it-gets" style="color:#0076df !important">AI will never replicate the poetry of mathematics, no matter how fast it gets</a>.
 - Anonymous, <a href="https://doomslide.substack.com/p/against-mathematics" style="color:#0076df !important">Against Mathematics</a>.
+- Daniel Spielman, <a href="https://danielspielman.substack.com/p/the-big-reset-in-mathematics" style="color:#0076df !important">The Big Reset in Mathematics</a>.
+- Henry Cohn, <a href="https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/" style="color:#0076df !important">The technical debt of AI-generated mathematics</a>, guest post on Terence Tao's blog.
 
 ## Earlier
 
