@@ -46,6 +46,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Anonymous, <a href="https://doomslide.substack.com/p/against-mathematics" style="color:#0076df !important">Against Mathematics</a>.
 - Daniel Spielman, <a href="https://danielspielman.substack.com/p/the-big-reset-in-mathematics" style="color:#0076df !important">The Big Reset in Mathematics</a>.
 - Henry Cohn, <a href="https://terrytao.wordpress.com/2026/09/15/the-technical-debt-of-ai-generated-mathematics/" style="color:#0076df !important">The technical debt of AI-generated mathematics</a>, guest post on Terence Tao's blog.
+- Larry Guth, <a href="https://math.mit.edu/math-community/files/whatmathmeanstome.pdf" style="color:#0076df !important">What Math Means to Me</a>.
 
 ## Earlier
 
