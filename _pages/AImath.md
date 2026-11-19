@@ -63,6 +63,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Francesco Maggi, <a href="https://x.com/Frances01896069/status/2108525699187237111" style="color:#0076df !important">"One thing that seems lost…"</a>, post on X, 9 October 2026.
 - Daniel Litt, <a href="https://x.com/littmath/status/2108662781117387091" style="color:#0076df !important">I think of my goal as a mathematician…</a>, post on X, 9 October 2026.
 - David Bessis, <a href="https://x.com/davidbessis/status/1849090602018681299" style="color:#0076df !important">"My favorite piece by Thurston…"</a>, post on X, 23 October 2024.
+- William P. Thurston, <a href="https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213" style="color:#0076df !important">"The product of mathematics is clarity and understanding…"</a>, answer on MathOverflow, 2010.
 
 ## Books
 
