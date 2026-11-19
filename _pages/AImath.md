@@ -68,6 +68,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 
 - David Bessis, <a href="https://yalebooks.co.uk/book/9780300283280/mathematica/" style="color:#0076df !important"><em>Mathematica: A Secret World of Intuition and Curiosity</em></a>. Yale University Press, 2025.
 - Reuben Hersh (ed.), <a href="https://link.springer.com/book/10.1007/0-387-29831-2" style="color:#0076df !important"><em>18 Unconventional Essays on the Nature of Mathematics</em></a>. Springer, 2006.
+- Paul Lockhart, <a href="https://www.maa.org/external_archive/devlin/LockhartsLament.pdf" style="color:#0076df !important"><em>A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form</em></a>. Bellevue Literary Press, 2009.
 
 Update: 17th October 2026.
 
