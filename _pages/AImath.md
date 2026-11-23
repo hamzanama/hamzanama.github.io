@@ -86,5 +86,5 @@ I have started adding audio and video materials.
 - Hugo Duminil-Copin, <a href="https://www.youtube.com/watch?v=omuJpoV-Ko4" style="color:#0076df !important">The Strip Mining of Mathematical Proofs</a>, Numberphile Podcast, 14 October 2026.
 - Steven Strogatz, <a href="https://www.youtube.com/watch?v=LfGenpmOjDQ" style="color:#0076df !important">When A.I. Comes for Your Purpose in Life</a>, <em>The Daily</em>, New York Times, 13 October 2026.
 - Tristan Buckmaster, <a href="https://www.youtube.com/watch?v=Mzbtj5nkMXI" style="color:#0076df !important">The Buckmaster Interview (Navier-Stokes)</a>, Numberphile, YouTube, 29 September 2026.
-- Hugo Duminil-Copin and Emmanuel Sander, <a href="LINK" style="color:#0076df !important">On the Other Side of the Blackboard: Mathematics with a Human Face</a>, Université de Genève, YouTube, 16 September 2026.
+- Hugo Duminil-Copin and Emmanuel Sander, <a href="https://www.youtube.com/watch?v=tQP3D9TRuxo" style="color:#0076df !important">On the Other Side of the Blackboard: Mathematics with a Human Face</a> (in French, auto-dubbed), Université de Genève, YouTube, 16 September 2026.
 
