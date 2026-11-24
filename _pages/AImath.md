@@ -58,6 +58,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 
 ## Shorter Pieces
 
+- Francesco Maggi, <a href="https://x.com/Frances01896069/status/..." style="color:#0076df !important">"I am learning how to use AI in math research…"</a>, post on X, 24 November 2026.
 - Bob Coecke, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7530721794371026944/" style="color:#0076df !important">"Track A vs Track B: who gets eaten by the shark?"</a>, post on LinkedIn, 23 November 2026.
 - David Bessis, <a href="https://x.com/davidbessis/status/2109602625184309658" style="color:#0076df !important">"10 remarks on AI and math…"</a>, post on X, 12 October 2026.
 - Daniel Litt, <a href="https://x.com/littmath/status/2109481266613764284" style="color:#0076df !important">"Apart from general awkwardness…"</a>, post on X, 12 October 2026.
