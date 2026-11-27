@@ -50,6 +50,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Frank Calegari, <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/" style="color:#0076df !important">Mathematics has changed. Let's act like it</a>, guest post on Terence Tao's blog.
 - Nestor Guillen, <a href="https://birdsnfrogs.github.io/2026/09/12/Felix_qui_potuit_rerum_cognoscere_causas.html" style="color:#0076df !important">Happy, those able to know the causes of things</a>.
 - David Bessis, <a href="https://davidbessis.substack.com/p/beyond-the-theorem-economy" style="color:#0076df !important">Beyond the theorem economy</a>.
+- Richard DeMillo and Richard Lipton, <a href="https://arxiv.org/abs/2611.31286" style="color:#0076df !important">The Industrialization of Noise: Why Automated Proof-Solving is the Same Old Dead End</a>.
 
 ## Earlier
 
