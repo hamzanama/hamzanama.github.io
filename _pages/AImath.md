@@ -53,6 +53,7 @@ I will update it regularly. Happy to receive recommendations for the list.
 - Richard DeMillo and Richard Lipton, <a href="https://arxiv.org/abs/2611.31286" style="color:#0076df !important">The Industrialization of Noise: Why Automated Proof-Solving is the Same Old Dead End</a>.
 - Eugenia Cheng, <a href="URL" style="color:#0076df !important">Anthropic's answer to a 167-year-old mystery isn't mathematics at all</a>.
 - Gaia Carenini, <a href="URL" style="color:#0076df !important">The Right to Think</a>.
+- Jeremy Avigad, <a href="https://arxiv.org/abs/2608.23218" style="color:#0076df !important">What is mathematics now, and what should it be?</a>.
 
 ## Earlier
 
